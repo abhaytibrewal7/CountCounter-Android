@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="android:colorBackground">#FF9800</item>
+        <!-- Primary dark theme color of the app (sets color of status bar) -->
+        <item name="android:statusBarColor">#FB8C00</item>
+        <!-- Background color of buttons in the app -->
+        <item name="android:colorButtonNormal">#FF9800</item>
+    </style>
+
+</resources>
